@@ -1,4 +1,4 @@
-package com.example.android.helloandroid;
+package com.example.android.mybusinesscard;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

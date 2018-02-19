@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">HelloAndroid</string>
+    <string name="app_name">MyBusinessCard</string>
+    <string name="textname">Miraj Kids</string>
+    <string name="phone">004 0742 982 223</string>
+    <string name="info">Description</string>
+    <string name="description">Do you have children between 2 and 5 years old? Come to our place to have some fun together</string>
+    <string name="address">Str Ale Donici, No 5, Timisoara, Romania</string>
+    <string name="email">mirajkids@gmail.com</string>
+    <string name="hours">Mo - Fri: 17.00 - 20.00 \n Sat - Sun: 10.00 - 20.00</string>
 </resources>
