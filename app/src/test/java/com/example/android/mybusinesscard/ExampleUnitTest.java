@@ -1,4 +1,4 @@
-package com.example.android.helloandroid;
+package com.example.android.mybusinesscard;
 
 import org.junit.Test;
 
